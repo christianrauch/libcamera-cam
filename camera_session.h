@@ -21,7 +21,7 @@
 #include <libcamera/request.h>
 #include <libcamera/stream.h>
 
-#include "../common/options.h"
+#include "options.h"
 
 class CaptureScript;
 class FrameSink;

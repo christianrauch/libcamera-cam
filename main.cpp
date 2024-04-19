@@ -14,9 +14,9 @@
 #include <libcamera/libcamera.h>
 #include <libcamera/property_ids.h>
 
-#include "../common/event_loop.h"
-#include "../common/options.h"
-#include "../common/stream_options.h"
+#include "event_loop.h"
+#include "options.h"
+#include "stream_options.h"
 
 #include "camera_session.h"
 #include "main.h"

@@ -13,8 +13,8 @@
 #include <libcamera/control_ids.h>
 #include <libcamera/property_ids.h>
 
-#include "../common/event_loop.h"
-#include "../common/stream_options.h"
+#include "event_loop.h"
+#include "stream_options.h"
 
 #include "camera_session.h"
 #include "capture_script.h"

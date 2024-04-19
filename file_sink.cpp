@@ -15,9 +15,9 @@
 
 #include <libcamera/camera.h>
 
-#include "../common/dng_writer.h"
-#include "../common/image.h"
-#include "../common/ppm_writer.h"
+#include "dng_writer.h"
+#include "image.h"
+#include "ppm_writer.h"
 
 #include "file_sink.h"
 

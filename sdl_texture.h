@@ -11,7 +11,7 @@
 
 #include <SDL2/SDL.h>
 
-#include "../common/image.h"
+#include "image.h"
 
 class SDLTexture
 {
